@@ -8,13 +8,15 @@
   
 
 ## Features
+- Provide daily Top news
+- News in both languages like Hindi and English
+- You cas save your fav news along with bookmarks
+- Website with fully mobile optimization   
 
 ## Tech Stack
 - HTML
 - CSS
 - JavaScript
 - React Js
-- axios
-- react-carousel
 - sass
 
