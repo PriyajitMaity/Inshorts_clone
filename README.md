@@ -18,5 +18,5 @@
 - CSS
 - JavaScript
 - React Js
-- sass
+- scss
 
